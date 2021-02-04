@@ -15,4 +15,9 @@ rarely
 seldom
 few
 little
-although 
+although
+altho
+despite
+spite
+regardless 
+albeit
