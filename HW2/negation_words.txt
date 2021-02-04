@@ -13,11 +13,8 @@ scarcely
 barely
 rarely
 seldom
-few
-little
 although
 altho
 despite
 spite
-regardless 
 albeit
